@@ -2,6 +2,7 @@
     "editor.renderWhitespace": "boundary",
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 1000,
+    "files.insertFinalNewline": true,
     "[javascript]": {
         "editor.tabSize": 2
     },
