@@ -16,6 +16,7 @@
         "editor.tabSize": 4,
     },
     "workbench.colorTheme": "Visual Studio Light",
+    "workbench.editor.enablePreview": false,
     "window.zoomLevel": 1,
     "workbench.statusBar.feedback.visible": false
 }
